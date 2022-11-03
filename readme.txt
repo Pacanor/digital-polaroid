@@ -2,10 +2,10 @@
 
 DESCRIPTION:
 
-KNOX is a clean, modern, and elegant free coming soon website template. Its thin line elements, 
+Digital Polaroid is a clean, modern, and elegant free coming soon website template. Its thin line elements, 
 great use of whitespace, and nice typography give the template a professional, classy design. 
 It is not just aesthetically pleasing it also has the essential functions you need to maintain 
-and engage visitors, and collect new leads while working on your website. KNOX comes in three 
+and engage visitors, and collect new leads while working on your website. Digital Polaroid comes in three 
 style variants: static, slideshow, and particle background.
 
 
@@ -72,7 +72,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since KNOX is distributed for free, support is not offered. KNOX is coded according 
+Since Digital Polaroid is distributed for free, support is not offered. Digital Polaroid is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
