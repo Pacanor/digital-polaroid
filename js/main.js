@@ -92,12 +92,12 @@
             let minutes = Math.floor( (diff/1000/60) % 60 );
             let seconds = Math.floor( (diff/1000) % 60 );
 
-            if (days <= 99) {
-                if (days <= 9) {
-                    days = '00' + days;
-                } else { 
+            if (days <= 9) {
+                // if (days <= 9) {
+                //     days = '00' + days;
+                // } else { 
                     days = '0' + days;
-                }
+                // }
             }
 
             hours <= 9 ? hours = '0' + hours : hours;
