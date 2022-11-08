@@ -2862,7 +2862,7 @@ img.u-pull-left {
 
 @media screen and (max-width: 900px) {
     .text-huge-title {
-        --text-multiplier : .679;
+        --text-multiplier : .7;
     }
 }
 
@@ -2884,7 +2884,7 @@ img.u-pull-left {
 
 @media screen and (max-width: 600px) {
     .text-huge-title {
-        --text-multiplier : .5;
+        --text-multiplier : .55;
     }
 }
 
@@ -2901,8 +2901,8 @@ img.u-pull-left {
  *
  * ------------------------------------------------------------------- */
 .s-intro {
-    --header-height     : 8.8rem;
-    --logo-width        : 275px;
+    --header-height     : 8rem;
+    --logo-width        : 250px;
     --text-display-size : 11.2rem;
     --text-multiplier   : 1;
     z-index             : 3;
@@ -3115,8 +3115,8 @@ img.u-pull-left {
 .s-intro__logo {
     z-index  : 4;
     position : absolute;
-    top      : 2.4rem;
-    left     : 4rem;
+    top      : 2rem;
+    left     : 2rem;
 }
 
 .s-intro__logo a {
@@ -3142,8 +3142,8 @@ img.u-pull-left {
     align-items    : flex-end;
     max-width      : var(--width-wider);
     height         : 100vh;
-    padding-top    : 20vh;
-    padding-bottom : 9.6rem;
+    padding-top    : 10rem;
+    padding-bottom : 8rem;
     position       : relative;
 }
 
@@ -3534,6 +3534,10 @@ img.u-pull-left {
 }
 
 @media screen and (max-width: 800px) {
+    .s-intro {
+        --logo-width : 230px;
+    }
+    
     .s-intro__content .text-huge-title {
         padding-right : 0;
     }
@@ -3568,6 +3572,7 @@ img.u-pull-left {
 @media screen and (max-width: 600px) {
     .s-intro {
         --header-height : 8rem;
+        --logo-width: 200px;
     }
 
     .s-intro__logo {
@@ -3589,6 +3594,10 @@ img.u-pull-left {
 }
 
 @media screen and (max-width: 550px) {
+    .s-intro {
+        --logo-width : 190px;
+    }
+    
     .s-intro__content {
         align-items : center;
     }
@@ -3609,7 +3618,7 @@ img.u-pull-left {
 
 @media screen and (max-width: 400px) {
     .s-intro {
-        --logo-width : 70px;
+        --logo-width : 175px;
     }
 
     .s-intro__logo {
