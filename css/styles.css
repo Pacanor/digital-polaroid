@@ -3154,6 +3154,14 @@ img.u-pull-left {
     color : #0f302f;
 }
 
+.text-primary{
+    color: #41a1b1;
+}
+
+.ml-2 {
+    margin-left: 2rem;
+}
+
 .s-intro__content .text-pretitle::before {
     background-color : #41a1b1;
 }
